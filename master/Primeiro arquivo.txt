@@ -4,3 +4,5 @@ primeira versão do arquivo, criado na branch "nova-branch"
 main criado e setado como branch default
 
 me enganei, comitei pra nova-branch, vou aproveitar e fazer o merge dela com a main
+
+tudo certo por aqui
